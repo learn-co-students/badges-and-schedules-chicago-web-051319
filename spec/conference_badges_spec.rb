@@ -1,4 +1,5 @@
 require 'spec_helper'
+require '../conference_badges'
 
 describe 'conference_badges' do
 
